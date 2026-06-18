@@ -1,10 +1,16 @@
 # Guidance on commands used:
 
 ## To compile:
-> javac *.java
+```
+cd SystemMaintenance
+javac *.java
+```
 
 ## To run in CLI:
-> java AlertSystem.java
+```
+cd SystemMaintenance
+java AlertSystem.java
+```
 
 ## Output:
 ```

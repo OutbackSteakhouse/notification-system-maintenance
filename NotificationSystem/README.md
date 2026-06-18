@@ -1,8 +1,10 @@
 # Guidance on commands used:
 
 ## To run in CLI:
-> java AlertSystem.java
-
+```
+cd NotificationSystem
+java AlertSystem.java
+```
 ## Output:
 ```
 === Notification System Test ===
