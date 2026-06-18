@@ -2,6 +2,7 @@
 
 ## Purpose
 The purpose of these two projects is to teach us to choose a design that is easy to modify when requirements change.
+The goal is flexibility. If something needs to be added/changed, it is able to be done without changing the core AlertSystem class.
 
 ## To Access Yourself
 ```
