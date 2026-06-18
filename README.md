@@ -3,6 +3,15 @@
 ## Purpose
 The purpose of these two projects is to teach us to choose a design that is easy to modify when requirements change.
 
+## To Access Yourself
+```
+git clone https://github.com/OutbackSteakhouse/notification-system-maintenance.git
+```
+## OR
+```
+git clone git@github.com:OutbackSteakhouse/notification-system-maintenance.git
+```
+
 ## Week 4 Project
 Week 4's project involved creating a basic notification system for Email and SMS notifications.
 
